@@ -20,7 +20,7 @@ int main(char argc, char *argv[]){
         return 1;
     }
 
-    char *ANum = "A01178073_AXXXXXX_AXXXXXX"; // A numbers of everyone. AXXXX_AXXXX_AXXX format.
+    char *ANum = "AXXXXXX_AXXXXXX_AXXXXXX"; // Add numbers before submitting
     FILE *outputFile = fopen(ANum, "w");
     if (outputFile == NULL) {
         fprintf(stderr, "Failed to create the output file.\n");
