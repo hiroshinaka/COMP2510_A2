@@ -1,0 +1,6 @@
+Mary Jackson Feb-2-1990 4.0 I 60
+Jack He Mar-3-1990 2.45 D
+Alice Wonderland feb-29-1980 3.9 X
+Bob Marley Mar-6-1970 3.95 I -9
+Chris Brown Dec-4-1983 4.0 I 75
+Dory Fish mar-10-1960 3.5 I 65
